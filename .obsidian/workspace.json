@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99e9328ab46b42a2",
+        "id": "56e0f168ba3ca836",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2510db5a68c2ee",
+            "id": "1a5eaaed8b60e222",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ToProcess/HTML.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HTML"
             }
           }
         ]
@@ -193,11 +197,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a2510db5a68c2ee",
+  "active": "392bd09f491beb7a",
   "lastOpenFiles": [
+    "ToProcess/HTML.md",
+    "ToProcess/React.md",
+    "ToProcess/CSS.md",
+    "Templates/_note_template.md",
+    "_path.md",
+    "DOM.md",
+    "ToProcess/JSX.md",
+    "Virtual DOM.md",
+    "Untitled.md",
+    "Templates",
+    "ToProcess",
     "Test",
     "Notes",
-    "_path.md",
     "_home.md",
     "tes.md",
     "2025-09-27.md",
