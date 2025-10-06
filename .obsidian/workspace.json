@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5380ebd59b715e7",
+        "id": "c5ca33621d2a7fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfc8bf0d4bba895",
+            "id": "5e6cde0050843157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToProcess/React. Props.md",
+                "file": "ToProcess/React. Внутреннее состояние компонента.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React. Props"
+              "title": "React. Внутреннее состояние компонента"
             }
           }
         ]
@@ -199,14 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dfc8bf0d4bba895",
+  "active": "5e6cde0050843157",
   "lastOpenFiles": [
-    "ToProcess/2025-09-29_1759164624.md",
-    "ToProcess/React. Props.md",
     "ToProcess/React. Жизненный цикл компонента.md",
+    "ToProcess/React. Внутреннее состояние компонента.md",
+    "ToProcess/React. Children.md",
+    "_path.md",
+    "ToProcess/React. Props.md",
+    "ToProcess/Preact.md",
+    "ToProcess/2025-09-29_1759164624.md",
     "Notes/React. Компонент.md",
     "Notes/React.md",
-    "ToProcess/Preact.md",
     "ToProcess/Менеджер пакетов nmp.md",
     "ToProcess/Babel.md",
     "ToProcess/Webpack.md",
@@ -215,7 +218,6 @@
     "ToProcess/JavaScript. ES2015.md",
     "ToProcess/JavaScript.md",
     "React. Компонент.md",
-    "_path.md",
     "ToProcess/HTML.md",
     "ToProcess/CSS.md",
     "Templates/_note_template.md",
@@ -229,9 +231,7 @@
     "Notes",
     "_home.md",
     "tes.md",
-    "2025-09-27.md",
     "Untitled.base",
-    "Welcome.md",
     "Resources"
   ]
 }
