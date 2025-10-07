@@ -1,4 +1,4 @@
-
+[[JavaScript. document.querySelector()]]
 
 ##### Источники
 

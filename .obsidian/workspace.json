@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ca33621d2a7fa1",
+        "id": "23ee2b3df6a85b7b",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6cde0050843157",
+            "id": "1acb370784505f20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToProcess/React. Внутреннее состояние компонента.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "React. Внутреннее состояние компонента"
+              "title": "New tab"
             }
           }
         ]
@@ -199,22 +195,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e6cde0050843157",
+  "active": "1acb370784505f20",
   "lastOpenFiles": [
-    "ToProcess/React. Жизненный цикл компонента.md",
+    "ToProcess/Babel.md",
+    "ToProcess/ReactDOM.createRoot().md",
+    "ToProcess/JavaScript. ES2016.md",
+    "ToProcess/JavaScript. document.querySelector().md",
+    "ToProcess/JavaScript. Document.md",
+    "Notes/React.md",
+    "ToProcess/Способы добавления JS-скрипта на сайт.md",
     "ToProcess/React. Внутреннее состояние компонента.md",
+    "ToProcess/React. Жизненный цикл компонента.md",
     "ToProcess/React. Children.md",
     "_path.md",
     "ToProcess/React. Props.md",
     "ToProcess/Preact.md",
     "ToProcess/2025-09-29_1759164624.md",
     "Notes/React. Компонент.md",
-    "Notes/React.md",
     "ToProcess/Менеджер пакетов nmp.md",
-    "ToProcess/Babel.md",
     "ToProcess/Webpack.md",
     "ToProcess/JavaScript. Приведение типов.md",
-    "ToProcess/JavaScript. ES2016.md",
     "ToProcess/JavaScript. ES2015.md",
     "ToProcess/JavaScript.md",
     "React. Компонент.md",
@@ -223,14 +223,10 @@
     "Templates/_note_template.md",
     "DOM.md",
     "ToProcess/JSX.md",
-    "Virtual DOM.md",
-    "Untitled.md",
     "Templates",
     "ToProcess",
     "Test",
     "Notes",
-    "_home.md",
-    "tes.md",
     "Untitled.base",
     "Resources"
   ]
